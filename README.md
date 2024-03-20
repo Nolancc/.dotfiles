@@ -1,2 +1,2 @@
 # .dotfiles
-my windows dotfiles
+my dotfiles
